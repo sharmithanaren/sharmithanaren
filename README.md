@@ -18,7 +18,7 @@ I'm diving deeper into deep learning and exploring more about natural language p
 - **GitHub:** [sharmithanaren](https://github.com/sharmithanaren)
 
 ## 😄 Fun Fact:
-I love exploring the mysteries of the universe in my free time, and I’m a huge fan of logic puzzles. 🌌🧩
+I love watching movies and series in my free time, and I’m a huge fan of logic puzzles. 🌌🧩
 
 Looking forward to making a big impact and collaborating on projects that challenge the status quo!
 
