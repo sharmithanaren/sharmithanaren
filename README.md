@@ -1,4 +1,4 @@
-# Hi there, I'm Sharmitha Narendra! 👋
+# Hi there, I'm Sharmitha Narendrakumar! 👋
 
 ## 🚀 About Me
 I'm a dynamic Machine Learning Engineer with a Master’s from Northeastern University and a knack for turning data into decisions. I thrive in environments that challenge me to learn and grow my skills in machine learning and data analytics. 📊👩‍💻
@@ -15,7 +15,6 @@ I'm diving deeper into deep learning and exploring more about natural language p
 
 ## 📫 How to reach me:
 - **LinkedIn:** [Sharmitha Narendrakumar](https://www.linkedin.com/in/sharmitha-narendrakumar/)
-- **GitHub:** [sharmithanaren](https://github.com/sharmithanaren)
 
 ## 😄 Fun Fact:
 I love watching movies and series in my free time, and I’m a huge fan of logic puzzles. 🌌🧩
